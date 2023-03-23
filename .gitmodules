@@ -8,3 +8,8 @@
 	url = https://github.com/garciadejalon/flowregenvcost
 	shallow = true
 	registered = true
+[submodule "TreeDep"]
+	path = TreeDep
+	url = https://github.com/cran/TreeDep
+	shallow = true
+	registered = true
