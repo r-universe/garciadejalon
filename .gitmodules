@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "FlowRegEnvCost"]
 	path = FlowRegEnvCost
 	url = https://github.com/garciadejalon/flowregenvcost
-	shallow = true
-	registered = true
 [submodule "TreeDep"]
 	path = TreeDep
 	url = https://github.com/cran/TreeDep
-	shallow = true
-	registered = true
